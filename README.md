@@ -1,3 +1,3 @@
 MY CURRICULUM VITAE
 
-![CV](cvimage.png)
+![CV](Image/cvimage.png)
